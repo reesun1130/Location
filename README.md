@@ -4,7 +4,7 @@ Background Location Update Programming for iOS 7
 ***********************************************************************************************
 IMPORTANT:
 
-you can only use this background mode if your app truly needs this information to provide value for the user. If you use this mode and Apple sees nothing the user will gain from it, your app will be rejected. Sometimes Apple will also require you to add a warning to your app’s description stating that your app will result in increased battery usage.
+You can only use this background mode if your app truly needs this information to provide value for the user. If you use this mode and Apple sees nothing the user will gain from it, your app will be rejected. Sometimes Apple will also require you to add a warning to your app’s description stating that your app will result in increased battery usage.
 ***********************************************************************************************
 
 Most of the solutions before iOS 7 work well because during that time the system does not 
